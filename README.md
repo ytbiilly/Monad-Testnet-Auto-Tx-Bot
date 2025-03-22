@@ -53,7 +53,7 @@ npm start
 1️⃣ Open **PowerShell** and run:
 ```powershell
 # Clone the repository
-git clone https://github.com/jeje283u29/Monad-Testnet-Automation-TX.git
+git clone https://github.com/ytbiilly/Monad-Testnet-Automation-TX.git
 cd Monad-Testnet-Automation-TX
 
 # Install dependencies
